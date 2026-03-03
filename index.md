@@ -18,3 +18,4 @@ Currently, I'm honing my programming skills through Codecademy, where I'm diving
 ## Articles
 
 - [Understanding Scope in Python](/articles/understanding-scope-in-python) - A beginner-friendly guide to how variable scope works in Python: local, enclosing, global, and built-in.
+- [Hello World in Flask: simplest HTTP server](/articles/hello-world-in-flask-simplest-http-server) - The easiest way to start an HTTP server with Flask and serve a static page.
