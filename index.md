@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Home page for Noah Canter, aspiring developer in Dallas-Fort Worth learning Python and web development.
 ---
 
 # noahpinion98.github.io

@@ -10,3 +10,6 @@ social_links:
 theme: minima
 plugins:
   - jekyll-seo-tag
+header_pages:
+  - index.md
+  - articles.md

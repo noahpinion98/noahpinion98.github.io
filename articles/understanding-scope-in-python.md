@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Understanding Scope in Python
+description: A beginner-friendly explanation of Python scope, including local, enclosing, global, and built-in name resolution.
 permalink: /articles/understanding-scope-in-python
 ---
 

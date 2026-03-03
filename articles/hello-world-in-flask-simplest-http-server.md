@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hello World in Flask: simplest HTTP server
+description: A minimal Flask example showing the fastest way to start a local HTTP server and serve static index.html.
 permalink: /articles/hello-world-in-flask-simplest-http-server
 ---
 
