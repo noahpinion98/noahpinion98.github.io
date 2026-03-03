@@ -1,5 +1,12 @@
-title: noahpinion98.github.io
-description: noah resume github pages
+title: Noah Canter
+description: Aspiring developer in Dallas-Fort Worth learning web development and Python through hands-on projects.
 url: "https://noahpinion98.github.io"
 baseurl: ""
+lang: en-US
+author: Noah Canter
+github_username: noahpinion98
+social_links:
+  - https://github.com/noahpinion98
 theme: minima
+plugins:
+  - jekyll-seo-tag
